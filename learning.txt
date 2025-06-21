@@ -1,0 +1,2 @@
+What i have learned in the course
+i learned git, github and shell commit

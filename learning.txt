@@ -1,2 +1,2 @@
-What i have learned in the course
+What I have learned from this course
 i learned git, github and shell commit
